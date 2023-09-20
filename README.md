@@ -1,6 +1,7 @@
 # FootPrint
 
 **FootPrint** is an Android application developed by students Igor Shverlo (wwerlosh) and Ilya Fetyukhin (mastkeyxgod) to participate in the All-Russian contest "Tvoy Hod". The app is designed to calculate a person's carbon footprint and help users reduce it.
+You can install the **Footprints** app on your Android device by following the following link to [Rustore](https://apps.rustore.ru/app/ru.wwerlosh .footprint).
 
 ## About the app
 
